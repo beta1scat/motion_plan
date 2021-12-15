@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DSOPHUS_USE_BASIC_LOGGING=1 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/local/include/vtk-8.2 -isystem /usr/local/include/pcl-1.11 -isystem /usr/local/include/eigen3 -isystem /usr/local/include    -g   -std=gnu++14 -o CMakeFiles/helloso3.dir/helloso3.cpp.o -c /home/niu/Documents/code/NumberSystems/helloso3.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/helloso3.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -DSOPHUS_USE_BASIC_LOGGING=1 -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -isystem /usr/local/include/eigen3 -isystem /usr/local/include    -g   -std=gnu++11 -o CMakeFiles/helloSO3.dir/helloSO3.cpp.o -c /home/niu/Documents/code/NumberSystems/helloSO3.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/helloSO3.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Bezier.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Bezier.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Bezier.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Complex.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Complex.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Complex.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Octonion.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Octonion.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Octonion.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Quaternion.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Quaternion.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Quaternion.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Sedenion.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Sedenion.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Sedenion.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Slerp.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Slerp.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Slerp.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Spline.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Spline.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Spline.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Support.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Support.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Support.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -I/usr/local/include/vtk-8.2 -I/usr/local/include/pcl-1.11 -I/usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -o CMakeFiles/NumberSystem.dir/src/Trigintaduonion.cpp.o -c /home/niu/Documents/code/NumberSystems/src/Trigintaduonion.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/src/Trigintaduonion.cpp"
+},
+{
+  "directory": "/home/niu/Documents/code/NumberSystems/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -DvtkRenderingContext2D_AUTOINIT=\"1(vtkRenderingContextOpenGL2)\" -DvtkRenderingCore_AUTOINIT=\"3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)\" -isystem /usr/local/include/vtk-8.2 -isystem /usr/local/include/pcl-1.11 -isystem /usr/local/include/eigen3 -I/home/niu/Documents/code/NumberSystems    -g   -std=gnu++14 -o CMakeFiles/test_squad.dir/test_squad.cpp.o -c /home/niu/Documents/code/NumberSystems/test_squad.cpp",
+  "file": "/home/niu/Documents/code/NumberSystems/test_squad.cpp"
+}
+]

@@ -1,0 +1,6 @@
+/home/niu/Documents/code/NumberSystems/build/CMakeFiles/edit_cache.dir
+/home/niu/Documents/code/NumberSystems/build/CMakeFiles/rebuild_cache.dir
+/home/niu/Documents/code/NumberSystems/build/CMakeFiles/helloso3.dir
+/home/niu/Documents/code/NumberSystems/build/CMakeFiles/helloSO3.dir
+/home/niu/Documents/code/NumberSystems/build/CMakeFiles/NumberSystem.dir
+/home/niu/Documents/code/NumberSystems/build/CMakeFiles/test_squad.dir

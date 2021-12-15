@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNumberSystem.a  CMakeFiles/NumberSystem.dir/src/Bezier.cpp.o CMakeFiles/NumberSystem.dir/src/Complex.cpp.o CMakeFiles/NumberSystem.dir/src/Octonion.cpp.o CMakeFiles/NumberSystem.dir/src/Quaternion.cpp.o CMakeFiles/NumberSystem.dir/src/Sedenion.cpp.o CMakeFiles/NumberSystem.dir/src/Slerp.cpp.o CMakeFiles/NumberSystem.dir/src/Spline.cpp.o CMakeFiles/NumberSystem.dir/src/Support.cpp.o CMakeFiles/NumberSystem.dir/src/Trigintaduonion.cpp.o
+/usr/bin/ranlib libNumberSystem.a

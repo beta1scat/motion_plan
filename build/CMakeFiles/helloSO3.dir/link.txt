@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7    -g    CMakeFiles/helloSO3.dir/helloSO3.cpp.o  -o helloSO3  -L/usr/local/lib -Wl,-rpath,/usr/local/lib 
